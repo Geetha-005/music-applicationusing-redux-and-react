@@ -34,6 +34,23 @@ This is a **modern, responsive music application** built using **React.js** and 
 ├── 📄 package.json     # Dependencies and scripts
 └── 📄 .gitignore       # Ignored files
 ```
+# My Music App 🎵
+
+A React & Redux Toolkit-powered music application with features like song browsing, search, playlist creation, and a like feature.
+
+## Screenshots 📸
+
+### Home Page
+![Home Page](https://github.com/Geetha-005/music-applicationusing-redux-and-react/blob/main/Screenshot%20(47).png)
+
+### Search Function
+![Search Feature](https://github.com/Geetha-005/music-applicationusing-redux-and-react/blob/main/Screenshot%20(48).png)
+
+### Playlist Page
+![Playlist Page](https://github.com/Geetha-005/music-applicationusing-redux-and-react/blob/main/Screenshot%20(49).png)
+
+### Liked songs Page
+![likedList page](https://github.com/Geetha-005/music-applicationusing-redux-and-react/blob/main/Screenshot%20(50).png)
 
 ## 🎧 Installation & Setup
 To run the application locally, follow these steps:
