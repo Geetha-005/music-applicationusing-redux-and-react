@@ -1,7 +1,7 @@
 # 🎵 Music Application (React + Redux Toolkit)
 
 ## 🚀 Introduction
-This is a **modern, responsive music application** built using **React.js** and **Redux Toolkit**. The app allows users to **browse songs**, search for specific tracks, **like songs**, and manage a **custom playlist**. Designed for both **desktop and mobile**, the application provides a smooth and interactive user experience.
+This is a **modern, responsive music application** built using **React.js** and **Redux Toolkit**. The app allows users to **browse songs**, search for specific tracks, **liked songs**, and manage a **custom playlist**. Designed for both **desktop and mobile**, the application provides a smooth and interactive user experience.
 
 ## 🌟 Features
 ✅ **Home Page:** Displays all available songs with album artwork.  
@@ -77,8 +77,8 @@ The app will be available at `https://music-application-gg.netlify.app/` 🚀
 Hi, I'm **Geeta**, a passionate **MERN Stack Developer** specializing in **React.js, Node.js,Expree.js MongoDB and Redux**. I love building **interactive, scalable web applications**.
 
 📫 **Let's Connect:**  
-- **GitHub:** [Your GitHub](https://github.com/Geetha-005/)  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/geetha-chilla-61aa04305/)  
+- **GitHub:** [GitHub](https://github.com/Geetha-005/)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/geetha-chilla-61aa04305/)  
 
 ## 💡 Contributing
 Contributions are always welcome! Feel free to submit **pull requests** or open **issues**.
